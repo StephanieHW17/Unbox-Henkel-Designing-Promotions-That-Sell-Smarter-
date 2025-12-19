@@ -74,4 +74,4 @@ All data has been anonymised and is shared strictly for **educational and portfo
 
 ## 📄 Full Report
 A detailed version of the analysis and recommendations can be found in the final report:  
-**UnBox Henkel Design Promotion That Sells Smarter.pdf**
+**“Unbox Henkel Designing Promotions That Sell Smarter”**
